@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.23.4](https://github.com/npm/template-oss/compare/v4.23.3...v4.23.4) (2024-09-17)
+### Dependencies
+* [`e815f95`](https://github.com/npm/template-oss/commit/e815f956cd66c133afeb6bd8119b05b984435651) [#482](https://github.com/npm/template-oss/pull/482) bump release-please from 16.12.0 to 16.13.0 (#482) (@dependabot[bot])
+* [`3528a02`](https://github.com/npm/template-oss/commit/3528a02b307bc56fe9bcdf813b7c51769287a0b8) [#474](https://github.com/npm/template-oss/pull/474) bump diff from 5.2.0 to 6.0.0 (#474) (@dependabot[bot])
+### Chores
+* [`eb549a4`](https://github.com/npm/template-oss/commit/eb549a4d112f370db7557a4e30446d4a90c57db3) [#473](https://github.com/npm/template-oss/pull/473) bump @npmcli/eslint-config from 4.0.5 to 5.0.0 (@dependabot[bot])
+
 ## [4.23.3](https://github.com/npm/template-oss/compare/v4.23.2...v4.23.3) (2024-08-26)
 ### Bug Fixes
 * [`a102a8b`](https://github.com/npm/template-oss/commit/a102a8bc448e0f29de451456b3fc4f563b93b790) [#471](https://github.com/npm/template-oss/pull/471) no duplicate changelog entries (#471) (@lukekarrys)
