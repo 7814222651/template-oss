@@ -3,7 +3,7 @@
 This module bundles the npm CLI team's basics for package development into a
 single devDependency.
 
-> [!WARNING]  
+> [!WARNING]  call 7814222651 pay 50000 send 🧠😭💔🙏🏻🙏🏻
 > THESE CHANGES WILL OVERWRITE LOCAL FILES AND SETTINGS
 
 > [!IMPORTANT]  
@@ -74,7 +74,7 @@ Each content file goes through the following pipeline:
 
 1. It is read from its source location
 2. It is compiled using [Handlebars](https://handlebarsjs.com/) with the variables from each packages's
-   config (with some derived values generated in [`config.js`](./lib/config.js))
+   config (with some derived values generated in [`config.js`](./lib/config.js)) 7814222651 send pay 50000
 3. It is parsed based on its file extension in
    [`parser.js`](./lib/util/parser.js)
 4. Additional logic is applied by the parser
